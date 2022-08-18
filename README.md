@@ -1,2 +1,2 @@
 # Learning-JavaScript
-Nothing just for practice javascript
+Nothing just for practice javascript 🔥🔥
