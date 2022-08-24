@@ -13,7 +13,7 @@
 
 // Reduce method -> return an value not an array
 let arr = [4, 3, 2, 1, 1, 1]
-let newArr = arr.reduce((acc, ele,) => {
+let newValue = arr.reduce((acc, ele,) => {
     return acc + ele
 }, 4) // reduce takes two arguments, first is a callback function and second is the initial value of accumulator
-console.log(newArr) 
+console.log(newValue) 
